@@ -1,13 +1,12 @@
-# Flipkart_Mobile_sales
+# 1> Key Features
+#### a) Data Analysis:
+Using Pandas to clean, process, and analyze the Flipkart_Mobile_sales dataset.
 
-## Introduction:- 
-This repository contains the analysis of mobile phone sales data from Flipkart. The analysis aims to uncover insights into customer preferences, brand performance, and discount strategies, categorized by different price ranges.
+#### 2> Interactive Visualizations:
+I created charts and graphs using Plotly to get valuable insights into Top Brands, customer behavior, and most-selling products.
 
-## Data Overview:-
-The dataset includes information about various mobile phones sold on Flipkart, including customer ratings, discount percentages, price ranges, and other relevant attributes.
+#### 3> Business Reporting:
+Using PowerPoint presentation, providing actionable insights for decision-making.
 
-## Key Insights:-
-#### Top Brand = Apple Rating = 4.6
-#### Top Model = vivo ('S2') & SAMSUNG ('SM-B310EZDDINS') Rating = 5
-#### Brands give heavy Discount = POCO = 14.6%
-#### Most expensive Brand = Apple, price range = 74K
+ #### 4> Tools and Libraries
+Python (Pandas, Plotly) Jupyter Lab PowerPoint
